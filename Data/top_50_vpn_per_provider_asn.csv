@@ -1,0 +1,172 @@
+Provider,ASN,Org,Role,Country
+AdGuard VPN,20940,Akamai International B.V. / Edge Hosting,Upstream / Hosting,NL
+AdGuard VPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+AdGuard VPN,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+AdGuard VPN,14061,"DigitalOcean, LLC",Upstream / Hosting,US
+AirVPN,200001,AirVPN / Paolo Brini,Owned / Core,IT
+AirVPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+AirVPN,60781,Leaseweb Netherlands B.V.,Upstream / Hosting,NL
+AirVPN,24940,Hetzner Online GmbH,Upstream / Hosting,DE
+Amnezia VPN,24940,Hetzner Online GmbH (Self-Hosted / Free),Upstream / Hosting,DE
+Amnezia VPN,14061,"DigitalOcean, LLC",Upstream / Hosting,US
+Amnezia VPN,20473,"The Constant Company, LLC (Vultr)",Upstream / Hosting,US
+Apple Private Relay,714,Apple Inc.,Owned / Ingress,US
+Apple Private Relay,13335,"Cloudflare, Inc. (Egress Partner)",Upstream / Partner,US
+Apple Private Relay,20940,Akamai International B.V. (Egress Partner),Upstream / Partner,NL
+Apple Private Relay,54113,"Fastly, Inc. (Egress Partner)",Upstream / Partner,US
+AstrillVPN,13213,UK2 Infrastructure / Astrill Systems,Upstream / Hosting,GB
+AstrillVPN,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+AstrillVPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+AstrillVPN,16276,OVH SAS,Upstream / Hosting,FR
+Avast Premium VPN,198605,Avast Software s.r.o. (Gen Digital),Owned / Core,CZ
+Avast Premium VPN,207137,Privax Limited (Gen Digital),Owned / Shared Group,GB
+Avast Premium VPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+AzireVPN,206019,Netprotect / AzireVPN AB,Owned / Core,SE
+AzireVPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+Bitdefender VPN,398101,Aura / Pango Group (Hotspot Shield Infra),Upstream / Partner,US
+Bitdefender VPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+Bitdefender VPN,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+Brave VPN,136787,Guardian Firewall / PacketHub Partner,Upstream / Partner,US
+Brave VPN,16509,"Amazon.com, Inc. (AWS)",Upstream / Cloud,US
+Brave VPN,20473,"The Constant Company, LLC (Vultr)",Upstream / Hosting,US
+CactusVPN,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+CactusVPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+CactusVPN,60068,Datacamp Limited,Upstream / Hosting,GB
+Cloudflare WARP,13335,"Cloudflare, Inc.",Owned / Core,US
+Cloudflare WARP,209242,"Cloudflare London, LLC (WARP Egress)",Owned / Core,GB
+cryptostorm,9009,M247 Europe SRL,Upstream / Hosting,RO
+cryptostorm,24940,Hetzner Online GmbH,Upstream / Hosting,DE
+cryptostorm,53667,FranTech Solutions (BuyVM),Upstream / Hosting,US
+CyberGhost,51396,CyberGhost S.R.L.,Owned / Core,RO
+CyberGhost,9009,M247 Europe SRL,Upstream / Hosting,RO
+CyberGhost,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+CyberGhost,60068,Datacamp Limited,Upstream / Hosting,GB
+DuckDuckGo VPN,16509,"Amazon.com, Inc. (AWS)",Upstream / Cloud,US
+DuckDuckGo VPN,20473,"The Constant Company, LLC (Vultr)",Upstream / Hosting,US
+ExpressVPN,394711,Express VPN International Ltd.,Owned / Core,VG
+ExpressVPN,396356,Maxihost Ltda / Latitude.sh,Upstream / Hosting,BR
+ExpressVPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+ExpressVPN,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+ExpressVPN,16276,OVH SAS,Upstream / Hosting,FR
+Geph,24940,Hetzner Online GmbH,Upstream / Hosting,DE
+Geph,20473,"The Constant Company, LLC (Vultr)",Upstream / Hosting,US
+Geph,14061,"DigitalOcean, LLC",Upstream / Hosting,US
+hide.me,47846,eVenture Limited,Owned / Core,MY
+hide.me,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+hide.me,9009,M247 Europe SRL,Upstream / Hosting,RO
+hide.me,60781,Leaseweb Netherlands B.V.,Upstream / Hosting,NL
+HideMyAss (HMA),207137,Privax Limited (Gen Digital),Owned / Core,GB
+HideMyAss (HMA),9009,M247 Europe SRL,Upstream / Hosting,RO
+HideMyAss (HMA),212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+Hotspot Shield,398101,Aura / Pango Group,Owned / Core,US
+Hotspot Shield,9009,M247 Europe SRL,Upstream / Hosting,RO
+Hotspot Shield,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+IPVanish,33438,StackPath / Highwinds Network Group,Owned / Legacy Core,US
+IPVanish,46562,Performive LLC,Upstream / Hosting,US
+IPVanish,9009,M247 Europe SRL,Upstream / Hosting,RO
+IPVanish,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+IVPN,204915,IVPN Limited / Privatus Limited,Owned / Core,GI
+IVPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+IVPN,24940,Hetzner Online GmbH,Upstream / Hosting,DE
+IVPN,60781,Leaseweb Netherlands B.V.,Upstream / Hosting,NL
+KeepSolid VPN Unlimited,207713,KeepSolid Inc.,Owned / Core,US
+KeepSolid VPN Unlimited,9009,M247 Europe SRL,Upstream / Hosting,RO
+KeepSolid VPN Unlimited,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+Malwarebytes VPN,39351,31173 Services AB (Mullvad Partner),Upstream / Partner,SE
+Malwarebytes VPN,198093,Mullvad VPN AB (Mullvad Partner),Upstream / Partner,SE
+Malwarebytes VPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+MEGA VPN,209372,Mega Limited,Owned / Core,NZ
+MEGA VPN,60781,Leaseweb Netherlands B.V.,Upstream / Hosting,NL
+MEGA VPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+Mozilla VPN,39351,31173 Services AB (Mullvad Partner),Upstream / Partner,SE
+Mozilla VPN,198093,Mullvad VPN AB (Mullvad Partner),Upstream / Partner,SE
+Mozilla VPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+Mullvad VPN,39351,31173 Services AB,Owned / Core,SE
+Mullvad VPN,198093,Mullvad VPN AB,Owned / Core,SE
+Mullvad VPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+Mullvad VPN,60068,Datacamp Limited,Upstream / Hosting,GB
+Mullvad VPN,16276,OVH SAS,Upstream / Hosting,FR
+Mysterium VPN,24940,Hetzner Online GmbH (Node Infrastructure),Upstream / Hosting,DE
+Mysterium VPN,14061,"DigitalOcean, LLC",Upstream / Hosting,US
+Mysterium VPN,16276,OVH SAS,Upstream / Hosting,FR
+NordVPN,136787,TEFINCOM S.A. / PacketHub S.A.,Owned / Core,PA
+NordVPN,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+NordVPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+NordVPN,60068,Datacamp Limited,Upstream / Hosting,GB
+NordVPN,209854,Surfshark Ltd / Nord Security Infrastructure,Owned / Shared Group,VG
+Norton VPN,207137,Privax Limited (Gen Digital),Owned / Shared Group,GB
+Norton VPN,198605,Avast Software s.r.o. (Gen Digital),Owned / Shared Group,CZ
+Norton VPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+Nym VPN,211252,Nym Technologies SA,Owned / Core,CH
+Nym VPN,24940,Hetzner Online GmbH (Mixnet Nodes),Upstream / Hosting,DE
+Nym VPN,16276,OVH SAS,Upstream / Hosting,FR
+Opera VPN,39832,Opera Norway AS,Owned / Core,NO
+Opera VPN,209854,Surfshark Ltd (Opera VPN Pro Partner),Upstream / Partner,VG
+Opera VPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+Orbot,24940,Hetzner Online GmbH (Tor Exit Relays),Upstream / Transit,DE
+Orbot,16276,OVH SAS (Tor Exit Relays),Upstream / Transit,FR
+Orbot,60729,Foundation for Applied Privacy (Tor),Upstream / Transit,AT
+OVPN,201011,OVPN Integritet AB,Owned / Core,SE
+OVPN,398101,Pango Group (Parent Infrastructure),Owned / Shared Group,US
+OVPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+PrivadoVPN,210644,Privado Networks AG,Owned / Core,CH
+PrivadoVPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+PrivadoVPN,60068,Datacamp Limited,Upstream / Hosting,GB
+Private Internet Access (PIA),206092,"Private Internet Access, Inc. (Kape)",Owned / Core,US
+Private Internet Access (PIA),46562,Performive LLC,Upstream / Hosting,US
+Private Internet Access (PIA),9009,M247 Europe SRL,Upstream / Hosting,RO
+Private Internet Access (PIA),212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+Private Internet Access (PIA),60068,Datacamp Limited,Upstream / Hosting,GB
+PrivateVPN,206092,PrivateVPN Global AB,Upstream / Shared Group,SE
+PrivateVPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+PrivateVPN,60068,Datacamp Limited,Upstream / Hosting,GB
+Proton VPN,199218,Proton AG,Owned / Core,CH
+Proton VPN,62371,Proton AG,Owned / Core,CH
+Proton VPN,209103,Proton AG,Owned / Core,CH
+Proton VPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+Proton VPN,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+Psiphon,52000,Psiphon Inc.,Owned / Core,CA
+Psiphon,16509,"Amazon.com, Inc. (AWS)",Upstream / Cloud,US
+Psiphon,14061,"DigitalOcean, LLC",Upstream / Hosting,US
+PureVPN,206264,GZ Systems Limited,Owned / Core,VG
+PureVPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+PureVPN,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+PureVPN,60068,Datacamp Limited,Upstream / Hosting,GB
+RiseupVPN,32613,Riseup Networks,Owned / Core,US
+RiseupVPN,24940,Hetzner Online GmbH,Upstream / Hosting,DE
+RiseupVPN,16276,OVH SAS,Upstream / Hosting,FR
+StrongVPN,33438,"Strong Technology, LLC / StackPath",Owned / Legacy Core,US
+StrongVPN,46562,Performive LLC,Upstream / Hosting,US
+StrongVPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+Surfshark,209854,Surfshark Ltd,Owned / Core,VG
+Surfshark,136787,PacketHub S.A. (Nord Security),Owned / Shared Group,PA
+Surfshark,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+Surfshark,9009,M247 Europe SRL,Upstream / Hosting,RO
+Surfshark,60068,Datacamp Limited,Upstream / Hosting,GB
+Tailscale,14061,"DigitalOcean, LLC (DERP Relays)",Upstream / Cloud,US
+Tailscale,16509,"Amazon.com, Inc. (AWS DERP Relays)",Upstream / Cloud,US
+Tailscale,20473,"The Constant Company, LLC (Vultr DERP)",Upstream / Hosting,US
+TorGuard,62240,Clouvider Limited / VPNetworks LLC,Upstream / Hosting,GB
+TorGuard,9009,M247 Europe SRL,Upstream / Hosting,RO
+TorGuard,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+TorGuard,16276,OVH SAS,Upstream / Hosting,FR
+TunnelBear,394695,TunnelBear LLC,Owned / Core,CA
+TunnelBear,16509,"Amazon.com, Inc. (AWS)",Upstream / Cloud,US
+TunnelBear,9009,M247 Europe SRL,Upstream / Hosting,RO
+TunnelBear,14061,"DigitalOcean, LLC",Upstream / Hosting,US
+Urban VPN,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+Urban VPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+VeePN,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+VeePN,9009,M247 Europe SRL,Upstream / Hosting,RO
+VeePN,60068,Datacamp Limited,Upstream / Hosting,GB
+VyprVPN,53667,"Golden Frog, GmbH / FranTech",Owned / Core,CH
+VyprVPN,36351,SoftLayer Technologies Inc. (IBM Cloud),Upstream / Cloud,US
+VyprVPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+Windscribe,206924,Windscribe Limited,Owned / Core,CA
+Windscribe,9009,M247 Europe SRL,Upstream / Hosting,RO
+Windscribe,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+Windscribe,24940,Hetzner Online GmbH,Upstream / Hosting,DE
+Windscribe,14061,"DigitalOcean, LLC",Upstream / Hosting,US
+ZoogVPN,9009,M247 Europe SRL,Upstream / Hosting,RO
+ZoogVPN,212238,Datacamp Limited (CDNEXT),Upstream / Hosting,GB
+ZoogVPN,60068,Datacamp Limited,Upstream / Hosting,GB
